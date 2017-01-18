@@ -1,1 +1,6 @@
 .DS_Store
+Assets/GoogleVR
+Assets/Plugins
+Library/ShaderCache
+Temp
+xcodeproj
