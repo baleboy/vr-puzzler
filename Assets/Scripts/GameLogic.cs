@@ -146,7 +146,8 @@ public class GameLogic : MonoBehaviour {
 				"time", 2, 
 				"easetype", "linear",
 				"oncomplete", "finishingFlourish", 
-				"oncompletetarget", this.gameObject
+				"oncompletetarget", this.gameObject,
+				"delay", 1
 			)
 		);
 	}
