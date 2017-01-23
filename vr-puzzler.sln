@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AE93CC1E-BEE6-355E-031A-AF8F970E7057}") = "vr-puzzler", "Assembly-CSharp-firstpass.csproj", "{BCD009B6-D98A-A8E6-5668-4154D235791C}"
+EndProject
+Project("{AE93CC1E-BEE6-355E-031A-AF8F970E7057}") = "vr-puzzler", "Assembly-CSharp.csproj", "{872EB4AD-7E61-B6D3-BD33-9542B47160C1}"
+EndProject
+Project("{AE93CC1E-BEE6-355E-031A-AF8F970E7057}") = "vr-puzzler", "Assembly-CSharp-Editor.csproj", "{2A5B9A33-6BF3-746C-8535-C0FA35D6E2F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD009B6-D98A-A8E6-5668-4154D235791C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD009B6-D98A-A8E6-5668-4154D235791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD009B6-D98A-A8E6-5668-4154D235791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD009B6-D98A-A8E6-5668-4154D235791C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872EB4AD-7E61-B6D3-BD33-9542B47160C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872EB4AD-7E61-B6D3-BD33-9542B47160C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872EB4AD-7E61-B6D3-BD33-9542B47160C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872EB4AD-7E61-B6D3-BD33-9542B47160C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5B9A33-6BF3-746C-8535-C0FA35D6E2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5B9A33-6BF3-746C-8535-C0FA35D6E2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5B9A33-6BF3-746C-8535-C0FA35D6E2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5B9A33-6BF3-746C-8535-C0FA35D6E2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
