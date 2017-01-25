@@ -1,6 +1,6 @@
 # VR Puzzler
 
-My submission for "assignment 4" of the Udacity VR Nanodegree.
+A fantasy-themed VR puzzle game that was my submission for "assignment 4" of the Udacity VR Nanodegree. Check this post on Medium for a [more detailed description](https://medium.com/@il_bale/how-i-created-a-vr-puzzle-game-and-what-i-learned-from-it-41090b0adcd1#.ogg3hvvwn) and a [short video](https://youtu.be/mLt8eQ_C9cU).
 
 ## How to build
 
