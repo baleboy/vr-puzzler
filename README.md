@@ -6,9 +6,10 @@ My submission for "assignment 4" of the Udacity VR Nanodegree.
 
    * Clone this repository
    * Open vr-puzzler in Unity
-   * Download the [Google VR SDK for Unity version 1.0.3](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.3). **Note that other versions of the GVR SDK won't work**
+   * Download the [Google VR SDK for Unity version 1.0.3](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.3). **Note that other versions of the GVR SDK won't work out of the box**
    * Unzip the GVR SDK archive and import GoogleVRForUnity.unitypackage in Unity
    * Accept when asked to update the APIs for compatibility
+   * Install [iTween](http://www.pixelplacement.com/itween/index.php) from the Unity Asset Store
    * Build for your chosen target
 
 *Tested with Unity 5.5f and iOS 10 on an iPhone 6s*
