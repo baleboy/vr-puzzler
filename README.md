@@ -12,8 +12,9 @@ A fantasy-themed VR puzzle game that was my submission for "assignment 4" of the
    * Install [iTween](http://www.pixelplacement.com/itween/index.php) from the Unity Asset Store
    * Build for your chosen target
 
-*Tested with Unity 5.5f and iOS 10 on an iPhone 6s*
-*Tested with Unity 5.5.1f1 (automatically upgrade scripts/assemblies using old APIs) on Windows 10 and Android 6.0.1 on a Xiaomi 5*
+Tested with:
+  * Unity 5.5f and iOS 10 on an iPhone 6s
+  * Unity 5.5.1f1 (automatically upgrade scripts/assemblies using old APIs) on Windows 10 and Android 6.0.1 on a Xiaomi 5
 
 ## License
 
